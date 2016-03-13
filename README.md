@@ -1,2 +1,5 @@
 # hello-world
-getting started
+
+Hi Muggles! Loving coffeescript and my nomadic life!
+
+
